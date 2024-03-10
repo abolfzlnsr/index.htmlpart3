@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(252, 251, 251);
+}
+h1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBRFERnFXlKGwALj61yCTYOatSvugGZZ1muw&usqp=CAU);
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+}
+p{
+    direction: rtl;
+    font-size: 25px;
+}
+#other{
+    direction: rtl;
+    font-size: 30px;
+}
+.b.card{
+    float: left;
+    width: 33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
